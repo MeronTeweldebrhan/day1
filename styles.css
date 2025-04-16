@@ -5,7 +5,7 @@ section{
     justify-content: space-around;
     border-style: solid;
     background-color:rgba(77, 150, 28, 0.58);
-    font-style: italic;
+    font-style: normal;
 }
 body{
     text-align: center;
